@@ -1,0 +1,5 @@
+Model,ROC-AUC,Recall@0.15,Precision@0.15,F1@0.15,Brier,Avg predicted risk
+XGBoost,0.801,0.78,0.295,0.428,0.107,0.15
+Random Forest,0.799,0.79,0.288,0.423,0.107,0.15
+Logistic Regression,0.791,0.729,0.303,0.428,0.109,0.149
+Decision Tree,0.786,0.746,0.292,0.419,0.109,0.15

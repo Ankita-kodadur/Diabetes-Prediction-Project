@@ -1,0 +1,17 @@
+venv/
+.venv/
+node_modules/
+.expo/
+__pycache__/
+*.pyc
+*.db
+*.sqlite3
+.env
+.env.*
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+data/api_secret.key
+data/users.db
+data/brfss_survey_data_2024.csv
+dist/
+web-build/
